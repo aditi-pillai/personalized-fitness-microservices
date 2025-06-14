@@ -9,5 +9,6 @@ public enum ActivityType {
     PILATES,
     YOGA,
     HIIT,
-    STRETCHING
+    STRETCHING,
+    SWIMMING
 }
